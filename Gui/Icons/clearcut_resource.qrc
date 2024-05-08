@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>check-circle .svg</file>
+    <file>chevron-down.svg</file>
+    <file>folder.svg</file>
+    <file>github.svg</file>
+    <file>linkedin.svg</file>
+    <file>mail.svg</file>
+    <file>paperclip.svg</file>
+    <file>x.svg</file>
+    <file>x-square.svg</file>
+  </qresource>
+</RCC>
